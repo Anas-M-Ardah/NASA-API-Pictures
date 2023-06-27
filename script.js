@@ -1,5 +1,5 @@
-const resultNav = document.getElementById('resultNav');
-const favoriteNav = document.getElementById('favoriteNav');
+const resultNav = document.getElementById('resultsNav');
+const favoriteNav = document.getElementById('favoritesNav');
 const imagesContainer = document.querySelector('.images-container');
 const saveConfirmed = document.querySelector('.save-confirmed');
 const loader = document.querySelector('.loader');
